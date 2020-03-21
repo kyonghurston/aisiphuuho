@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://buzoolawa.mokalo.co/sitemap.xml
